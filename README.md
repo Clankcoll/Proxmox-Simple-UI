@@ -26,7 +26,7 @@ Please contact ClankTech via email to info@clank.tech for more details about the
 Unless explicitly stated otherwise, any contribution you intentionally submit for inclusion in the work shall be dual licensed as above, without any additional terms or conditions, as defined in the AGPL-3.0 license.
 
 
-##Additional Informations
+### Additional Informations
 
 ClankTech as a company does not yet exist maybe in the future maybe not.
 But neverthenless if u need any Help information etc pp you are able to Contact me and my friends over info@clank.tech
