@@ -21,7 +21,7 @@ For commercial use, you are required to purchase a commercial license from Clank
 
 Please contact ClankTech via email to info@clank.tech for more details about the commercial license.
 
-## Contribution
+### Contribution
 
 Unless explicitly stated otherwise, any contribution you intentionally submit for inclusion in the work shall be dual licensed as above, without any additional terms or conditions, as defined in the AGPL-3.0 license.
 
