@@ -5,11 +5,11 @@
 </head>
 <body>
     <?php
-    if(file_exists('config.ini')) {
+    if(file_exists('./config/config.ini')) {
         // Redirect to login page
         header("Location: login.php");
         exit;
-    }
+      }      
 
     if($_SERVER['REQUEST_METHOD'] === 'POST') {
         $server = $_POST['server'];
